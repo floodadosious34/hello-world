@@ -1,1 +1,2 @@
 # hello-world
+## Hello my name is James. I started my coding journey in 2020 during the panmdemic. I have learned a lot of cool things and have been able to work a little in the software engineering field professionaly. At the moment I am focused on my full time ministry assignment in a Russian congregation here in Louisville, KY. But I still am passionate about coding and learmning as much as possible. Hopefully, one day I can return to working in the field professionally. Thanks So Much!!!
